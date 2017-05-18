@@ -1,0 +1,1 @@
+{'sunapoi': {'fortune': 0, 'lucky': 0}, 'inketsu': {'fortune': 1, 'lucky': 1, 'cookie': 0}}
